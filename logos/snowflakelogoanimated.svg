@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160.815 165.121" xmlns:bx="https://boxy-svg.com">
+  <text style="fill: rgb(255, 255, 255); font-family: &quot;Roboto&quot;; font-size: 150px; font-weight: 900; white-space: pre;" x="16.231" y="126.035">*</text>
+  <defs>
+    <style bx:fonts="Roboto">@import url(https://fonts.googleapis.com/css2?family=Roboto%3Aital%2Cwght%400%2C100%3B0%2C300%3B0%2C400%3B0%2C500%3B0%2C700%3B0%2C900%3B1%2C100%3B1%2C300%3B1%2C400%3B1%2C500%3B1%2C700%3B1%2C900&amp;display=swap);</style>
+  </defs>
+  <text style="fill: rgb(197, 194, 170); font-family: &quot;Roboto&quot;; font-size: 122px; font-weight: 900; white-space: pre; text-anchor: middle; transform-origin: 117.007px 84.763px 0px;" x="116.27" y="143.382">*<animate attributeName="text-anchor" values="middle" begin="0s" dur="2s" fill="freeze" calcMode="discrete" keyTimes="0"/><animateTransform type="rotate" additive="sum" attributeName="transform" values="0;-13;0;0" begin="0s" dur="5.01s" fill="freeze" keyTimes="0; 0.13877; 0.27372; 1" calcMode="spline" keySplines="0.42 0 0.58 1; 0.42 0 0.58 1; 0 0 0.58 1" repeatCount="indefinite"/></text>
+  <text style="fill: rgb(255, 255, 255); font-family: &quot;Roboto&quot;; font-size: 97px; font-weight: 900; white-space: pre; transform-origin: 61.025px 117.986px 0px;" x="37.934" y="164.789">*<animateTransform type="rotate" additive="sum" attributeName="transform" values="0;0;-8;0;0" dur="5.02s" fill="freeze" begin="0.02s" keyTimes="0; 0.341301; 0.45551; 0.557769; 1" calcMode="spline" keySplines="0 0 1 1; 0.42 0 0.58 1; 0.42 0 0.58 1; 0 0 1 1" repeatCount="indefinite"/></text>
+  <animate attributeName="y" values="0; 0" begin="0s" dur="2s" fill="freeze"/>
+</svg>
